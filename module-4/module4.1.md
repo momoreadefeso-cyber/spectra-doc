@@ -1,5 +1,5 @@
 
-Documentation Blueprint: Module 4.1 — Keyframe Selection
+ Module 4.1 — Keyframe Selection
 
 
 1. Overview & Purpose (The "Why")
