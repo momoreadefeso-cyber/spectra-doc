@@ -2,7 +2,7 @@
 
 ## 1. Overview & Purpose
 * **What problem does it solve?** (Security operators want to ask plain-English questions like *"How many red cars breached Zone A yesterday?"* without knowing SQL or touching raw database files.)
-* **What is its core job?
+* **What is its core job? **
 Translates natural-language questions into safe, schema-accurate SQLite queries against `spectra_events.db`, executes them, and summarizes the rows back in plain English.)
 
 ## 2. Pipeline Architecture (4-Step Flow)
